@@ -19,9 +19,9 @@ L’objectif de ce TP est de découvrir la manière de déclarer et résoudre le
 
     *All codes are written in Python and were tested on Google Collab and [Noteable.io](https://app.noteable.io). Please follow the instructions on the corresponding Jupyter Notebooks from each exercise in order to install the necessary libraries.*
 
-2. Les CRs du TP vont consister en les codes-source Python ou Jupyter des Exos 1 et 2 (avec vos propres modifications, rajouts et commentaires, intégrés). Les 2 CRs est à déposer sur Moodle (dossier CR_TP1_votre_option (ISI, SAR, IPS, app)). 
+2. Les CRs du TP vont consister en les codes-source Python ou Jupyter des Exos 1, 2 et 3 (avec vos propres modifications, rajouts et commentaires, intégrés). Les 3 CRs est à déposer sur Moodle (dossier CR_TP1_votre_option (ISI, SAR, IPS, app)). 
 
-    *The reports of the Lab will consist of the Python or Jupyter source codes of Exo 1 and Exo 2 (with your own adds, modifications, and comments integrated). The 2 reports are to be placed on Moodle (CR_TP1_your_option (ISI, SAR, IPS, app) folder).*
+    *The reports of the Lab will consist of the Python or Jupyter source codes of Exo 1, 2 and 3 (with your own adds, modifications, and comments integrated). The 3 reports are to be placed on Moodle (CR_TP1_your_option (ISI, SAR, IPS, app) folder).*
 
 ### Exo. # 1 : Comprendre les processus de Markov / *Understanding Markov Processes*
 
