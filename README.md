@@ -2,7 +2,7 @@
 
 ## Informations générales
 - Master 1, Semestre 1, 3 ECTS
-- Code UE : MU4RBI08
+- Code UE : MU4RBR08
 - Chargé de Cours et resp. UE : Prof. Daniel Racoceanu
 - Chargé de TP : Gabriel Jimenez
 - Version : oct. 2023
