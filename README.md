@@ -1,11 +1,11 @@
-# UE Introduction à l’Intelligence Artificielle
+# UE Fondamentaux de l'Intelligence Artificielle
 
 ## Informations générales
 - Master 1, Semestre 1, 3 ECTS
-- Code UE : MU4RBR08
+- Code UE : UM4RBI12
 - Chargé de Cours et resp. UE : Prof. Daniel Racoceanu
 - Chargé de TP : Gabriel Jimenez
-- Version : oct. 2024
+- Version : nov. 2025
 
 ## Travaux Pratiques (TP) / *Laboratories (Labs)*
 ### TP1 - Processus markoviens et apprentissage par renforcement *(Markovian Decision Process and Reinforcement Learning)*
